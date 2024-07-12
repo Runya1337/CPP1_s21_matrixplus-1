@@ -1,0 +1,8 @@
+#ifndef CPP1_S21_MATRIXPLUS_1_SRC_TESTS_S21_MATRIX_OOP_TEST_H_
+#define CPP1_S21_MATRIXPLUS_1_SRC_TESTS_S21_MATRIX_OOP_TEST_H_
+
+#include <gtest/gtest.h>
+
+#include "../s21_matrix_oop.h"
+
+#endif  // CPP1_S21_MATRIXPLUS_1_SRC_TESTS_S21_MATRIX_OOP_TEST_H_
